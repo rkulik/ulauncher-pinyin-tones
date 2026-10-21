@@ -1,0 +1,15 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Pinyin Tones",
+    "description": "Convert pinyin with tone numbers into tone marks",
+    "developer_name": "René Kulik",
+    "icon": "images/icon.png",
+    "preferences": [
+        {
+            "id": "pinyin_tones_kw",
+            "type": "keyword",
+            "name": "Pinyin Tones",
+            "default_value": "pyt"
+        }
+    ]
+}
